@@ -1,0 +1,25 @@
+outcome,age_group,years,geography,estimate,ci_lower,ci_upper
+Major Depressive Episode in the Past Year,12 to 17,2006-08,"United States",0.0811228747,0.0783827235,0.083950092
+Major Depressive Episode in the Past Year,12 to 17,2008-10,"United States",0.0815588896,0.0787697631,0.0844377231
+Major Depressive Episode in the Past Year,12 to 17,2010-12,"United States",0.0845124972,0.0816608569,0.0874542353
+Major Depressive Episode in the Past Year,12 to 17,2012-14,"United States",0.1036006823,0.1003093118,0.1069872074
+Major Depressive Episode in the Past Year,12 to 17,2014-16,"United States",0.1220737994,0.1184716435,0.1257698534
+Major Depressive Episode in the Past Year,12 to 17,2016-18,"United States",0.1348256783,0.131000567,0.1387446473
+Major Depressive Episode in the Past Year,18 or Older,2006-08,"United States",0.0660749713,0.0639959151,0.068216648
+Major Depressive Episode in the Past Year,18 or Older,2008-10,"United States",0.0660151733,0.0639194112,0.0681746459
+Major Depressive Episode in the Past Year,18 or Older,2010-12,"United States",0.0674146766,0.0653457784,0.0695442039
+Major Depressive Episode in the Past Year,18 or Older,2012-14,"United States",0.0670515167,0.0650732357,0.0690854951
+Major Depressive Episode in the Past Year,18 or Older,2014-16,"United States",0.0666235884,0.0649302773,0.068357831
+Major Depressive Episode in the Past Year,18 or Older,2016-18,"United States",0.0699562292,0.0682320894,0.0717205823
+Major Depressive Episode in the Past Year,18 to 25,2006-08,"United States",0.082343824,0.0796325164,0.0851389061
+Major Depressive Episode in the Past Year,18 to 25,2008-10,"United States",0.0823924937,0.0795899298,0.0852845989
+Major Depressive Episode in the Past Year,18 to 25,2010-12,"United States",0.0850945958,0.0822129536,0.0880675503
+Major Depressive Episode in the Past Year,18 to 25,2012-14,"United States",0.0896917595,0.0866489919,0.0928305171
+Major Depressive Episode in the Past Year,18 to 25,2014-16,"United States",0.1014766932,0.0981385722,0.1049151495
+Major Depressive Episode in the Past Year,18 to 25,2016-18,"United States",0.1254978543,0.1217230614,0.1293724651
+Major Depressive Episode in the Past Year,26 or Older,2006-08,"United States",0.063268779,0.0608851273,0.065739218
+Major Depressive Episode in the Past Year,26 or Older,2008-10,"United States",0.0631824874,0.0607905472,0.0656619639
+Major Depressive Episode in the Past Year,26 or Older,2010-12,"United States",0.064360531,0.0619832272,0.0668225184
+Major Depressive Episode in the Past Year,26 or Older,2012-14,"United States",0.0631760151,0.0609216125,0.0655080224
+Major Depressive Episode in the Past Year,26 or Older,2014-16,"United States",0.0607993105,0.0589336254,0.0627201219
+Major Depressive Episode in the Past Year,26 or Older,2016-18,"United States",0.0610280757,0.0591518319,0.0629598499
