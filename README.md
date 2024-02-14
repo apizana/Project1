@@ -24,8 +24,7 @@ Hypothesis: If we adjust gun accessibility, the rate of suicide will decrease by
 Null Hypothesis : Changing the access to guns the suicide rate will have no effect.
 
 
-Datasets to be (potentially) used:
-WHR2023.csv
+Works Cited:
 https://data.oecd.org/healthstat/suicide-rates.htm
 https://data.worldbank.org/indicator/SH.STA.SUIC.P5
 https://www.who.int/data/gho/info/gho-odata-api
